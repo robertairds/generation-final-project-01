@@ -1,5 +1,12 @@
 # 📖 Library Management System - Hodges Figgis
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/OOP-Object--Oriented-blue?style=for-the-badge" alt="OOP"/>
+  <img src="https://img.shields.io/badge/Bootcamp-Generation%20Brasil-9E4770?style=for-the-badge" alt="Generation Brasil"/>
+</p>
+
 A **Java-based** management system developed to handle a book collection, allowing users to perform full CRUD (Create, Read, Update, Delete) operations through a terminal interface.
 
 ## 🚀 Features
